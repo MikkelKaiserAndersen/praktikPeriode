@@ -1,6 +1,8 @@
 #movies img, #movie img {
 	width: 100%;
 	border-radius: 8px;
+	object-fit: cover;
+	background-repeat: no-repeat;
 }
 
 @media(min-width: 960px) {
